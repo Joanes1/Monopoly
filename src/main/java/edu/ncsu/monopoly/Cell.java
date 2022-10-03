@@ -1,5 +1,5 @@
 package edu.ncsu.monopoly;
-
+//I have added a comment
 public abstract class Cell {
 	private boolean available = true;
 	private String name;
